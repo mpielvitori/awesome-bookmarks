@@ -1,4 +1,4 @@
-<h1 align="center">My List of All Things</h1>
+<h1 align="center">My Awesome bookmarks</h1>
 
 <div align="center">
   <h3>Topics</h3>
@@ -88,7 +88,9 @@
 * [HackTheBox](https://www.hackthebox.eu) - *Hacking tests*
 * [AlgoExpert](https://www.algoexpert.io/product)
 * [LeetCode](https://leetcode.com/)
-* [HackerRank](https://www.hackerrank.com/  )
+* [HackerRank](https://www.hackerrank.com/)
+* [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
+* [Itsy Bitsy Data Structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
 
 ## Resume
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
@@ -96,12 +98,11 @@
 
 ## Technical Interview
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - *Algorithms study materials, behavioral content and tips for rocking your coding interview* 💯
-* [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
+* [So You Want an Internship](https://github.com/codebytere/so-you-want-an-internship)
 * [Back-end Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions#nosql)
 * [Andrei's Repo](https://github.com/andreis/interview) - *Containing a list of more technical interview repos*
 * [Patrick Shyu's 10 Tips](https://www.youtube.com/watch?v=B7WMjMZHyq0) - *Youtube Video By Google's Tech Lead Patrick Shyu*
 * [interviewing.io](https://interviewing.io) - *Free & anonymous technical interview practice*
-* [Itsy Bitsy Data Structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
 
 ## Books
 * [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books/)
