@@ -91,6 +91,7 @@
 * [HackerRank](https://www.hackerrank.com/)
 * [TopCoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
 * [Itsy Bitsy Data Structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
+* [Sourcing games](https://sourcing.games/)
 
 ## Resume
 * [Awesome CV](https://github.com/posquit0/Awesome-CV) - *LaTeX template for your outstanding job application* 📄
@@ -103,6 +104,7 @@
 * [Andrei's Repo](https://github.com/andreis/interview) - *Containing a list of more technical interview repos*
 * [Patrick Shyu's 10 Tips](https://www.youtube.com/watch?v=B7WMjMZHyq0) - *Youtube Video By Google's Tech Lead Patrick Shyu*
 * [interviewing.io](https://interviewing.io) - *Free & anonymous technical interview practice*
+* [Awesome Recruitment](https://github.com/Sjamilla/awesome-recruitment)
 
 ## Books
 * [List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books/)
