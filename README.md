@@ -66,14 +66,19 @@
 * [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
 * [Patterns by source making](https://sourcemaking.com/design_patterns)
 * [Gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) - *A successful Git branching model*
+* [Git Rewriting history](https://backlog.com/git-tutorial/rewriting-history/)
+* [Git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+* [Oh Shit, Git!?!](https://ohshitgit.com/)
 * [Code Reviews](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [Microservices](https://microservices.io/)
 
 ## DevOps
+* [Cloud Native Landscape](https://landscape.cncf.io/category=application-definition-image-build&grouping=category)
 * [Istio on k8s](https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e)
 * GitOps
   * [What is GitOps](https://venturebeat.com/2019/02/02/what-is-gitops-and-why-you-should-know-about-it/)
   * [Made Simple with Flux](https://thenewstack.io/gitops-made-simple-with-flux/)
+  * [Guide To GitOps](https://www.weave.works/technologies/gitops/)
 * [Microservice Demo Application](https://github.com/microservices-demo/microservices-demo)
 * [A Crash Course For Running Istio
 ](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715)
