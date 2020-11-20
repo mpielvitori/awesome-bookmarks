@@ -74,6 +74,7 @@
   * [Oh Shit, Git!?!](https://ohshitgit.com/)
 * [Code Reviews](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [Microservices](https://microservices.io/)
+* [Microservice Architecture - Communication & Design Patterns](https://medium.com/dev-genius/microservice-architecture-communication-design-patterns-70b37beec294)
 * [BFF](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
 * SpringBoot microservices
   * [In28Minutes](https://github.com/in28minutes/spring-microservices/tree/master/03.microservices)
